@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**Fufiga/Fufiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fufiga ! A computer science student based in Switzerland.
 
-Here are some ideas to get you started:
+I like to give life to ideas I have and want my Github profil to show exactly that. 
+Right now, I am working on a Discord Bot for my community. The repo is unfortunately private for privacy reason (Bot token). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main coding languages are Python, C, HTML/CSS/JS. I love to explore other languages and logics.
+
+I personnaly work on Visual Studio Code, but I am familiar with other apps. 
+
+You can reach me via my LinkedIn or directly by messages.
+
+## Other facts:
+- Hobbies: Games, sports and socializing.
+  
