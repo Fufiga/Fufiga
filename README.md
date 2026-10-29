@@ -4,6 +4,9 @@ Hi ! I'm Fufiga, a computer science student based in Switzerland.<br><br>I am cu
 ## 🎓 Student at 42 Lausanne
 [![gabmende's 42 stats](https://badge.mediaplus.ma/greenbinary/gabmende?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
+## Done Projects
+https://github.com/ayogun/42-project-badges/raw/main/badges/libftm.png
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/RvXbhNCHs2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fufi_ga) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Fufiga) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabriel.mnds@outlook.com) 
 
